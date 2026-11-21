@@ -20,7 +20,7 @@ import torchaudio
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SENARYO = os.path.join(ROOT, "senaryo", "sahneler.json")
-OUT = os.path.join(ROOT, "build", "ses", "parcalar")
+OUT = os.path.join(ROOT, "build", "ses", "parcalar2")
 REF = os.path.join(ROOT, ".models", "tr_m.flac")
 
 # Sadece seslendirmede kullanılan okunuş düzeltmeleri (altyazı orijinal yazımı korur)
@@ -35,10 +35,10 @@ OKUNUS = {
     "Lodbrok": "Lodbrok",
 }
 
-EXAGGERATION = 0.55   # biraz daha dramatik vurgu
-CFG_WEIGHT = 0.40     # daha ağır, oturaklı tempo
-TEMPERATURE = 0.75
-MAX_DENEME = 3
+EXAGGERATION = 0.45   # sade, abartısız anlatım
+CFG_WEIGHT = 0.50     # normal tempo
+TEMPERATURE = 0.70
+MAX_DENEME = 4
 ESIK = 0.86           # whisper benzerlik eşiği
 
 
@@ -66,7 +66,33 @@ def okunus(metin):
     return metin
 
 
+BIRLER = ["", "bir", "iki", "üç", "dört", "beş", "altı", "yedi", "sekiz", "dokuz"]
+ONLAR = ["", "on", "yirmi", "otuz", "kırk", "elli", "altmış", "yetmiş", "seksen", "doksan"]
+
+
+def sayi_yazi(n):
+    if n == 0:
+        return "sıfır"
+    p = []
+    b, n = divmod(n, 1000)
+    if b:
+        p.append("bin" if b == 1 else sayi_yazi(b) + " bin")
+    y, n = divmod(n, 100)
+    if y:
+        p.append("yüz" if y == 1 else BIRLER[y] + " yüz")
+    o, r = divmod(n, 10)
+    p += [ONLAR[o], BIRLER[r]]
+    return " ".join(x for x in p if x)
+
+
+def rakamlari_yaz(s):
+    s = re.sub(r"(\d)\.(\d{3})", r"\1\2", s)
+    s = re.sub(r"(\d+),5", lambda m: sayi_yazi(int(m.group(1))) + " buçuk", s)
+    return re.sub(r"\d+", lambda m: " " + sayi_yazi(int(m.group(0))) + " ", s)
+
+
 def normalize(s):
+    s = rakamlari_yaz(s)
     s = s.lower().replace("i̇", "i")
     s = re.sub(r"[^a-zçğıöşüâîû0-9 ]", " ", s)
     return " ".join(s.split())
@@ -115,10 +141,21 @@ def main():
                 tmp = yol + ".tmp.wav"
                 torchaudio.save(tmp, wav, tts.sr)
                 w16 = torchaudio.functional.resample(wav, tts.sr, 16000)[0].numpy().astype("float32")
-                segs, _ = asr.transcribe(w16, language="tr", beam_size=3)
+                segs, _ = asr.transcribe(w16, language="tr", beam_size=3, word_timestamps=True)
+                segs = list(segs)
                 duyulan = " ".join(s.text for s in segs)
                 skor = benzerlik(okunus(cumle), duyulan)
+                # konuşmanın dışında kalan mırıltı/uğultuyu kelime sınırlarından kes
+                kelimeler = [w for s in segs for w in (s.words or [])]
+                if kelimeler:
+                    a = max(0, int((kelimeler[0].start - 0.10) * tts.sr))
+                    b = min(wav.shape[-1], int((kelimeler[-1].end + 0.18) * tts.sr))
+                    wav = wav[:, a:b]
                 sure = wav.shape[-1] / tts.sr
+                beklenen = len(cumle) / 14.0
+                if sure > beklenen * 1.9 or sure < beklenen * 0.45:
+                    skor -= 0.2   # anormal uzunluk: tekrar/yutma şüphesi
+                torchaudio.save(tmp, wav, tts.sr)
                 print(f"[{sid} {i+1}/{len(cumleler)} d{deneme+1}] skor={skor:.2f} "
                       f"{sure:.1f}s ({time.time()-t0:.0f}s)", flush=True)
                 if en_iyi is None or skor > en_iyi[0]:

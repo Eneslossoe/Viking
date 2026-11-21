@@ -1,4 +1,4 @@
-"""Anlatım + müzik + efekt karışımı, videoyla birleştirme ve SRT altyazı.
+"""Anlatımı videoyla birleştirir (müzik/efekt yok) ve SRT altyazı üretir.
 
 Kullanım: python video/son_kurgu.py [ad]   (ad: sessiz | onizleme_s01 ...)
 """
@@ -80,22 +80,13 @@ def main():
     os.makedirs(CIKTI, exist_ok=True)
     zaman = json.load(open(os.path.join(ROOT, "build", "video", f"{ad}_zaman.json")))
     a = anlatim(zaman, ad)
-    m = os.path.join(SES, f"muzik_{ad}.wav")
-    e = os.path.join(SES, f"efekt_{ad}.wav")
     v = os.path.join(ROOT, "build", "video", f"{ad}.mp4")
     hedef = os.path.join(CIKTI, f"{DOSYA_ADI}.mp4" if ad == "sessiz" else f"{ad}.mp4")
-    filtre = (
-        "[0:a]aresample=48000,asplit=2[an][sc];"
-        "[1:a]aresample=48000,volume=0.30[mz];"
-        "[2:a]aresample=48000,volume=0.40[ef];"
-        "[mz][sc]sidechaincompress=threshold=0.02:ratio=5:attack=30:release=600:makeup=1[mzd];"
-        "[an][mzd][ef]amix=inputs=3:normalize=0:duration=first[mix];"
-        "[mix]loudnorm=I=-14:TP=-1.5:LRA=11,aresample=48000[out]"
-    )
-    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", a, "-i", m, "-i", e, "-i", v,
-                    "-filter_complex", filtre, "-map", "3:v", "-map", "[out]",
-                    "-c:v", "copy", "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", "-shortest", hedef],
-                   check=True)
+    # Sadece anlatım: müzik ve efekt yok, YouTube seviyesine (-14 LUFS) eşitlenir
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", a, "-i", v,
+                    "-filter_complex", "[0:a]loudnorm=I=-14:TP=-1.5:LRA=11,aresample=48000[out]",
+                    "-map", "1:v", "-map", "[out]", "-c:v", "copy", "-c:a", "aac", "-b:a", "192k",
+                    "-movflags", "+faststart", "-shortest", hedef], check=True)
     srt = os.path.splitext(hedef)[0] + ".srt"
     altyazi(zaman, srt)
     print("tamam:", hedef, srt)

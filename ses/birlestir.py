@@ -13,23 +13,18 @@ import numpy as np
 import soundfile as sf
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-PARCA = os.path.join(ROOT, "build", "ses", "parcalar")
+PARCA = os.path.join(ROOT, "build", "ses", "parcalar2")
 SAHNE = os.path.join(ROOT, "build", "ses", "sahne")
 SR = 48000
 
-BAS_BOSLUK = 0.35
-SON_BOSLUK = 0.80
+BAS_BOSLUK = 0.30
+SON_BOSLUK = 0.70
 
-# Sert, tok anlatıcı: hafif kalınlaştırma + gövde + netlik + kompresör + yükseklik normalizasyonu
+# Sade anlatım: ses rengine dokunulmaz; sadece alt uğultu filtresi, hafif kompresör ve seviye eşitleme
 SES_ZINCIRI = (
-    "rubberband=pitch=0.93,"
-    "highpass=f=65,"
-    "equalizer=f=140:t=q:w=1.0:g=3.5,"
-    "equalizer=f=420:t=q:w=1.2:g=-2,"
-    "equalizer=f=3200:t=q:w=1.0:g=2.5,"
-    "acompressor=threshold=-20dB:ratio=3.5:attack=4:release=90:makeup=2,"
-    "aecho=0.85:0.4:28:0.08,"
-    "loudnorm=I=-16:TP=-1.5:LRA=9"
+    "highpass=f=80,"
+    "acompressor=threshold=-24dB:ratio=2:attack=15:release=200,"
+    "loudnorm=I=-16:TP=-1.5:LRA=11"
 )
 
 

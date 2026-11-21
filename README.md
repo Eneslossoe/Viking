@@ -1,8 +1,7 @@
 # Zaman Kırığı – Ragnar Zamanında Viking Bir Köylü Olsaydın Hayatın Nasıl Olurdu?
 
-Bu videodaki her şey kodla üretildi: çizimler (SVG), animasyon (Python/PIL), seslendirme
-(yerel Türkçe ses modeli), müzik ve ses efektleri (numpy sentezi). Hiçbir hazır görsel ya da
-ses dosyası kullanılmadı.
+Bu videodaki her şey kodla üretildi: çizimler (SVG), animasyon (Python/PIL) ve seslendirme
+(yerel Türkçe ses modeli). Anlatım sade tutuldu: müzik ve ses efekti yok.
 
 ## Çıktılar (`cikti/`)
 | Dosya | Açıklama |
@@ -19,10 +18,10 @@ ses dosyası kullanılmadı.
 - `cizim/render.js` – SVG → PNG (Playwright/Chromium)
 - `video/animasyon.py` – kamera hareketi, nefes, göz kırpma, gemi sallanması, ateş, duman, kar, yağmur, şimşek
 - `ses/seslendir.py` – Chatterbox Multilingual (MIT lisanslı) ile Türkçe seslendirme;
-  her cümle Whisper ile geri dinlenip yanlış okunursa yeniden üretilir
-- `ses/birlestir.py` – sesi sertleştirme (hafif kalınlaştırma, EQ, kompresör) ve zamanlama
-- `ses/muzik.py` – Re minör drone/pad, davul, rüzgar, dalga, yağmur, ateş, gök gürültüsü, Viking borusu
-- `video/son_kurgu.py` – karışım (müzik konuşmada otomatik kısılır), -14 LUFS, SRT
+  her cümle Whisper ile geri dinlenir; yanlış okunursa yeniden üretilir, cümle sonundaki
+  mırıltılar kelime sınırlarından kesilir
+- `ses/birlestir.py` – sahne sesleri: ses rengine dokunmadan uğultu filtresi, hafif kompresör, seviye eşitleme
+- `video/son_kurgu.py` – anlatım + video, -14 LUFS, SRT
 
 ## Yeniden üretmek
 ```bash
