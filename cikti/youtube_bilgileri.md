@@ -25,12 +25,12 @@ Sen olsan hangisini seçerdin: tarla mı, kürek mi? Yorumlara yaz!
 6:30 Akın çağrısı
 7:02 Denizde hayat
 7:34 Paris kuşatması, 845
-8:06 Salgın ve yaralar
+8:05 Salgın ve yaralar
 8:40 Evlilik
-9:10 Uzun kış
+9:09 Uzun kış
 9:39 Kıtlık ve kölelik tehlikesi
 10:06 Yaşlılık ve ölüm
-10:42 Kapanış
+10:43 Kapanış
 
 📚 Kaynaklar
 - Annales Bertiniani (Frank yıllıkları, 845 Paris saldırısı ve 7.000 libre ödeme)
