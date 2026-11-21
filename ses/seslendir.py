@@ -123,9 +123,9 @@ def main():
             continue
         cumleler = cumlelere_bol(sahne["metin"])
         kayitlar = []
+        onceki = manifest.get(sid, {}).get("parcalar", [])
         for i, cumle in enumerate(cumleler):
             yol = os.path.join(OUT, f"{sid}_{i:02d}.wav")
-            onceki = manifest.get(sid, {}).get("parcalar", [])
             if os.path.exists(yol) and i < len(onceki) and onceki[i]["metin"] == cumle:
                 kayitlar.append(onceki[i])
                 continue
