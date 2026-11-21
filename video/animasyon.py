@@ -221,7 +221,7 @@ def yagmur(d, t):
 # ------------------------------------------------------------------ işleme
 def isci(no, seg, kare_bas, kare_son, cikti):
     cmd = ["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{OW}x{OH}",
-           "-r", str(FPS), "-i", "-", "-c:v", "libx264", "-preset", "medium", "-crf", "18",
+           "-r", str(FPS), "-i", "-", "-c:v", "libx264", "-preset", "medium", "-crf", "20",
            "-pix_fmt", "yuv420p", "-threads", "2", cikti]
     ff = subprocess.Popen(cmd, stdin=subprocess.PIPE)
     cache = {}
