@@ -1,0 +1,105 @@
+{
+  "baslik": "Ragnar Zamanında Viking Bir Köylü Olsaydın Hayatın Nasıl Olurdu?",
+  "sahneler": [
+    {
+      "id": "s01_acilis",
+      "gorsel": "Gece, fırtınalı deniz. Ufukta Viking gemilerinin siluetleri. Başlık yazısı.",
+      "metin": "Yıl sekiz yüz kırk beş. Kuzeyin buz gibi sularında, yüz yirmi savaş gemisi yelken açıyor. Başlarında, adı yüzyıllar boyunca destanlarda anılacak bir adam var: Ragnar Lodbrok. Hedefleri, Frankların kalbi: Paris. Ama sen o gemilerde değilsin. Sen, Ragnar'ın adını ocak başında duyan binlerce sıradan insandan birisin. Elinde kılıç değil, saban var. Peki Ragnar zamanında Viking bir köylü olsaydın, hayatın nasıl olurdu? Hazırsan, zaman kırığından geçiyoruz."
+    },
+    {
+      "id": "s02_ragnar",
+      "gorsel": "Eski parşömen. Üzerinde gölge halinde Ragnar ve büyük bir soru işareti. 'GERÇEK Mİ? EFSANE Mİ?'",
+      "metin": "Önce şunu bilelim: Ragnar gerçekten yaşadı mı, tarihçiler bugün bile tartışıyor. Frank kayıtları, sekiz yüz kırk beşte Paris'i yağmalayan Reginherus adında bir Viking reisinden bahsediyor. Destanlar ise onu ejderhalarla savaşan, sonunda yılanlarla dolu bir çukurda can veren bir kahraman olarak anlatıyor. Gerçek ile efsane iç içe. Ama senin hayatında efsaneye yer yok. Senin dünyan, çok daha gerçek."
+    },
+    {
+      "id": "s03_piramit",
+      "gorsel": "Üç katlı sosyal piramit: JARL (tepe), KARL (orta, bizim karakter parlıyor), KÖLE / THRALL (alt).",
+      "metin": "Viking toplumu, üç katlı bir piramit gibiydi. En tepede jarllar vardı: toprak sahibi, gemi sahibi, savaşçı beyler. En altta köleler, yani thrall'lar. Savaşta esir düşmüş, ya da borcunu ödeyemediği için özgürlüğünü kaybetmiş insanlar. Ve ortada, toplumun omurgası: karllar. Yani özgür köylüler. İşte sen, tam olarak buradasın. Silah taşıyabilirsin, mecliste söz hakkın var, kimseye ait değilsin. Ama bu özgürlüğün bir bedeli var. Seni toprağın doyurmazsa, kimse doyurmaz."
+    },
+    {
+      "id": "s04_dogum",
+      "gorsel": "Uzun evin içi, ocak ışığı. Baba kundaktaki bebeği havaya kaldırıyor.",
+      "metin": "Hikayen doğduğun an başlıyor. Ama hayatta kalman, henüz garanti değil. Viking geleneğinde yeni doğan bebek, babanın önüne konurdu. Baba seni kucağına alırsa, aileye kabul edilmiş sayılırdın. Ardından üzerine su serpilir ve sana bir isim verilirdi. Çoğu zaman da ölmüş bir atanın adı. Çünkü ismin içinde, ataların ruhunun yaşadığına inanılırdı. Yine de bu dünyada çocukların pek çoğu, yetişkinliğe ulaşamazdı. Soğuk, açlık ve hastalık, kılıçlardan çok daha fazla can alırdı."
+    },
+    {
+      "id": "s05_uzun_ev",
+      "gorsel": "Dışarıdan çim çatılı uzun ev, bacadan duman. Sonra içerisi: ortada ocak, duvar boyunca sekiler, bir uçta inekler.",
+      "metin": "Büyüdüğün yer: uzun ev. Yirmi otuz metre uzunluğunda, ahşap ve çimden yapılmış, tek bir büyük oda. Pencere yok. Ortada gece gündüz yanan bir ocak var. Dumanı da çatıdaki küçük bir delikten çıkmaya çalışıyor. Yani gözlerin hep yanıyor. Duvar boyunca uzanan sekiler, gündüz oturma yerin, gece yatağın. Annen, baban, kardeşlerin, belki büyükannen ve birkaç köle. Hepiniz aynı çatının altındasınız. Kışın ise evin bir ucuna inekler giriyor. Neden mi? Çünkü bir inek, canlı bir soba demek. Kokusu mu? Ona da alışırsın."
+    },
+    {
+      "id": "s06_yemek",
+      "gorsel": "Karakter elinde tahta kase, önünde lapa, yassı ekmek, kurutulmuş balık, skyr ve bira.",
+      "metin": "Günün, güneşle başlıyor. Kalkar kalkmaz hayvanları besler, sağar, odun taşırsın. Ancak birkaç saat çalıştıktan sonra, günün ilk yemeği gelir: dagmal, yani gün yemeği. Menüde çoğunlukla arpa ya da yulaf lapası var. Yanında yassı ekmek, skyr denen yoğurda benzer bir süt ürünü, ve şanslıysan kurutulmuş balık. Et ise her gün değil; bayramlarda ve kesim zamanında. Akşam yemeği olan nattmal ile gün biter. Günde sadece iki öğün. Susuzluğunu ise çoğu zaman hafif bir birayla gideriyorsun."
+    },
+    {
+      "id": "s07_tarla",
+      "gorsel": "Altın renkli arpa tarlası, karakter elinde orakla. Arkada koyunlar ve keçiler, uzakta fiyort.",
+      "metin": "Kuzeyde yaz kısa, kış ise uzun ve acımasız. Bu yüzden yazın her günü değerli. Arpa, yulaf, çavdar ekersin. İnek, koyun, keçi ve domuz beslersin. Ot biçmek, hayati bir iştir. Çünkü kış boyunca hayvanlarını doyuracak ot yetmezse, onları kesmek zorunda kalırsın. Et tuzlanır, balık rüzgarda kurutulur, peynir yapılır. Kısacası, yazın bütün hayatın tek bir soruya kilitlenir: Bu kışı çıkarabilecek miyiz?"
+    },
+    {
+      "id": "s08_kadinlar",
+      "gorsel": "Evin kadını dikey dokuma tezgahında. Belinde anahtar demeti parlıyor.",
+      "metin": "Evin kadınlarının işi de, en az seninki kadar ağır. Yün eğirmek, kumaş dokumak, yemek, süt ürünleri ve bütün evin düzeni onlardan sorulur. Bir fikir vermek için: Tek bir Viking gemisinin yelkenini dokumak, yıllar süren bir emek isteyebilirdi. Ama Viking kadınları, döneminin pek çok kadınına göre şaşırtıcı haklara sahipti. Evin anahtarlarını bellerinde taşırlardı. Bu, evin gerçek yöneticisinin kim olduğunu gösterirdi. Mülk sahibi olabilir, hatta tanıklar önünde bildirerek boşanabilirlerdi."
+    },
+    {
+      "id": "s09_temizlik",
+      "gorsel": "Karakter saçını tarıyor. Yanında tarak, cımbız, kulak kaşığı. Takvimde: CUMARTESİ = LAUGARDAGR (YIKANMA GÜNÜ).",
+      "metin": "Şimdi seni şaşırtacak bir şey söyleyelim. Filmlerdeki pis, dağınık Viking imajını unut. Viking mezarlarında en sık bulunan eşyalardan biri, taraklardır. Cımbızlar, kulak temizleyicileri, hatta saçlarını açmak için kullandıkları sert sabunlar. Haftanın bir günü, özel olarak yıkanma günüydü. Eski İskandinav dilinde cumartesinin adı laugardagr; yani yıkanma günü. Hatta bir İngiliz kroniğinde, Danimarkalıların saçlarını taradıkları ve her cumartesi yıkandıkları için, İngiliz kadınlarının gönlünü çaldıklarından şikayet edilir."
+    },
+    {
+      "id": "s10_ting",
+      "gorsel": "Açık havada meclis (Ting). Kanun sözcüsü bir kayanın üstünde, çevresinde özgür erkekler.",
+      "metin": "Ama hayat her zaman huzurlu değil. Komşunun ineği tarlana girdi, biri seni dolandırdı, ya da bir kavga çıktı ve biri öldü. Peki şimdi ne olacak? Cevap: Ting. Özgür erkeklerin açık havada toplandığı meclis. Burada kanun sözcüsü kanunları ezberinden okur, davalar dinlenir, kararlar verilir. Bir adam öldürüldüyse, katilin ailesi kan bedeli ödeyebilirdi. Ödemezse kan davası başlar, ve bu nesiller boyu sürebilirdi. En ağır ceza ise ölüm değil, kanun dışı ilan edilmekti. Böyle biri olursan, seni öldüren kimse ceza almaz. Artık kimsenin değilsin."
+    },
+    {
+      "id": "s11_din",
+      "gorsel": "Bulutlarda çekiciyle Thor, yanında başak tutan Freyr. Karakterin boynunda küçük bir çekiç kolye.",
+      "metin": "Peki kime dua ediyorsun? Odin bilgeliğin ve savaşın tanrısı. Ama o daha çok jarlların ve şairlerin tanrısı. Senin gibi bir köylü için asıl önemli olanlar başka. Gök gürültüsünün efendisi Thor, seni ve tarlanı korur. Boynunda, onun çekicinin küçük bir kopyasını taşırsın. Freyr ise bereket tanrısıdır. Yağmur, güneş ve bol hasat ondan gelir. Yılın belli zamanlarında blót denen kurban törenleri yapılır, hayvanlar kesilir, etleri ziyafette yenir. Ve kötü bir haber: Valhalla senin için değil. Oraya savaşta ölenler gider. Yatağında, yaşlılıktan ölürsen, gideceğin yer Hel'in karanlık diyarıdır."
+    },
+    {
+      "id": "s12_cagri",
+      "gorsel": "Sahilde jarlın adamı borazan çalıyor, kıyıda bir drakkar. Karakter bir yanda tarla, bir yanda gemi arasında kararsız.",
+      "metin": "Bir bahar sabahı, jarlın adamları köye gelir. Ragnar'ın büyük bir sefer hazırladığı söyleniyor. Gemiler, kürekçi istiyor. Ve önünde iki yol var. Birincisi: tarlanda kalırsın. Güvenli, ama fakir bir hayat. İkincisi: küreğe geçersin. Belki gümüşle dönersin, belki de hiç dönmezsin. Unutma, Vikinglerin çoğu tam zamanlı savaşçı değildi. Baharda tohumu eker, yazın akına çıkar, hasat zamanı eve dönerlerdi. Ve sen de, bu yolu seçiyorsun."
+    },
+    {
+      "id": "s13_deniz",
+      "gorsel": "Açık denizde dalgalarla boğuşan drakkar, kürek çeken adamlar, yağmur.",
+      "metin": "Gemide hayat, sandığın kadar destansı değil. Üstü açık bir teknede; yağmur, rüzgar ve dalga altında, saatlerce kürek çekersin. Uyuyacak kabin yok. Deri bir uyku tulumuna sarılıp, güvertede uyursun. Yemek: kurutulmuş balık ve taş gibi sert ekmek. Ama bu gemiler, döneminin en iyi gemileriydi. Sığ gövdeleri sayesinde, denizden nehirlere girebiliyorlardı. Ve Ragnar'ın filosu da tam olarak bunu yaptı. Sen Nehri'nden yukarı, Paris'e kadar."
+    },
+    {
+      "id": "s14_paris",
+      "gorsel": "Nehir adasında surlu Paris, nehirde Viking gemileri. Ön planda gümüş dolu sandıklar: 7.000 LİBRE.",
+      "metin": "Mart, sekiz yüz kırk beş. Paskalya günlerinde Vikingler Paris'e ulaşır. Halkın çoğu kaçmıştır, direniş zayıftır. Şehir yağmalanır. Ve sonunda Frank kralı Kel Charles, Vikinglerin geri çekilmesi için bir bedel öder: yedi bin libre gümüş ve altın. Yaklaşık iki buçuk ton değerli metal. Senin payına düşen ise birkaç gümüş parça, belki bir bilezik. Ama bir köylü için bu, yıllarca tarlada çalışarak kazanamayacağı bir servet."
+    },
+    {
+      "id": "s15_salgin",
+      "gorsel": "Kampta hasta ve yaralı Vikingler, gri gökyüzü. Bir kasede soğan çorbası.",
+      "metin": "Ama zafer, her zaman eve dönmek demek değil. Frank kayıtlarına göre, Paris seferinden dönen Viking ordusunda büyük bir salgın çıktı ve pek çok savaşçı yolda öldü. Yaralananların durumu ise daha da kötü. Antibiyotik yok, mikrop bilgisi yok. Destanlara göre karından yaralanan bir adama, soğanlı bir çorba içirilirdi. Eğer yaradan soğan kokusu geliyorsa, bağırsak delinmiş demekti. Ve bu, ölüm fermanıydı. Ama sen şanslıydın. Eve, birkaç gümüş parçası ve ömür boyu anlatacağın bir hikayeyle döndün."
+    },
+    {
+      "id": "s16_evlilik",
+      "gorsel": "Düğün: karakter ve eşi, iki aile, bal şarabı boynuzları, başlık sandığı.",
+      "metin": "Paris'ten getirdiğin gümüş, şimdi işine yarayacak. Çünkü evlenme vaktin geldi. Evet, evliliğe genellikle aileler karar verir. Çünkü evlilik, iki aile arasında bir ittifaktır. Damat tarafı başlık öder, gelin de çeyiziyle gelir. Düğünler birkaç gün sürebilir, ve bol bol bal şarabı içilir. Artık sen de bir evin reisisin. Kendi tarlan, kendi hayvanların, ve yakında, kendi çocukların."
+    },
+    {
+      "id": "s17_kis",
+      "gorsel": "Karla kaplı uzun ev, gökte kuzey ışıkları. İçeride ailecek ateş başında, hnefatafl oyunu.",
+      "metin": "Ve sonra kış gelir. Kuzeyde kış, aylarca süren bir karanlık demek. Bazı yerlerde güneş, günde sadece birkaç saat görünür. Uzun evde ateşin başında toplanır, aletlerini tamir eder, yün eğirirsin. Hnefatafl denen bir masa oyunu oynanır. Ve en önemlisi, hikayeler anlatılır. Tanrıların, kahramanların, ve tabii ki Ragnar'ın hikayeleri. Belki o hikayelerden birinde, Paris'e giden gemide senin de küreğin vardır."
+    },
+    {
+      "id": "s18_aclik",
+      "gorsel": "Çorak tarla, boş ambar, gri gökyüzü. Karakter üzgün, elinde boş kese.",
+      "metin": "Ama her kış masal gibi geçmez. Kötü bir hasat, bütün aileni ölümle burun buruna getirebilir. Erzak biterse, önce tohumluk tahılı yersin, sonra hayvanlarını. Sonra ağaç kabuğunu una katarsın. Ve en kötüsü: Borcunu ödeyemezsen, özgürlüğünü kaybedebilirsin. Dün özgür bir karl olan sen, yarın bir köle olabilirsin. Viking dünyasında piramidin basamakları, sanıldığı kadar sağlam değildi."
+    },
+    {
+      "id": "s19_olum",
+      "gorsel": "Yaşlanmış, ak sakallı karakter ocak başında. Sonra: gemi şeklinde dizilmiş taşlarla çevrili mezar, gün batımı.",
+      "metin": "Eğer çocukluğu, açlığı, salgınları ve savaşları atlatabildiysen, kırklı yaşlarına ulaşırsın. Bu çağda bu, yaşlılık demektir. Sırtın bükülmüş, dişlerin aşınmış, ellerin nasırdan taş kesmiştir. Ve bir gün, ocak başında son nefesini verirsin. Ailen seni bir jarl gibi gemiyle gömmeyecek; o zenginlere özel. Ama bıçağınla, tarağınla, belki de Paris'ten getirdiğin o gümüş bilezikle toprağa verilirsin. Mezarının etrafına, gemi şeklinde taşlar dizilir. Çünkü son yolculuğun da, bir deniz yolculuğudur."
+    },
+    {
+      "id": "s20_kapanis",
+      "gorsel": "Şafakta fiyort, yelken açan gemiler, tepede karakterin silueti. Sonra abone ol kartı.",
+      "metin": "Ragnar'ın adı destanlarda yaşadı. Şarkılarda, kitaplarda, dizilerde. Senin adını ise hiçbir taşa kazımadılar. Ama o gemileri yapan keresteyi kesen, yelkenleri dokuyan, Ragnar'ın ordusunu besleyen arpayı eken, sendin. Tarih, kralları ve kahramanları yazar. Ama tarihi omuzlarında taşıyan, her zaman senin gibi isimsiz insanlardır. Sen olsan hangi yolu seçerdin? Tarlanda kalır mıydın, yoksa küreğe mi geçerdin? Yorumlara yaz. Bir sonraki zaman kırığında görüşmek üzere."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+.models/
+.venv/
+build/
+__pycache__/
+cikti/*.mp4
