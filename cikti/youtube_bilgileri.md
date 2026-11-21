@@ -12,24 +12,24 @@ Sen olsan hangisini seçerdin: tarla mı, kürek mi? Yorumlara yaz!
 
 ⏳ Bölümler
 0:00 Giriş
-0:35 Ragnar gerçek mi, efsane mi?
-1:02 Jarl, Karl, Köle: Viking toplumu
-1:37 Doğum ve isim verme
-2:12 Uzun ev
+0:36 Ragnar gerçek mi, efsane mi?
+1:03 Jarl, Karl, Köle: Viking toplumu
+1:38 Doğum ve isim verme
+2:13 Uzun ev
 2:50 Bir gün ve yemekler
 3:26 Tarla, hayvanlar ve kışa hazırlık
-3:56 Viking kadınları
+3:57 Viking kadınları
 4:30 Vikingler pis miydi?
 5:06 Ting: kanun ve kan davası
 5:46 Tanrılar ve Valhalla
-6:29 Akın çağrısı
+6:30 Akın çağrısı
 7:02 Denizde hayat
 7:34 Paris kuşatması, 845
-8:05 Salgın ve yaralar
+8:06 Salgın ve yaralar
 8:40 Evlilik
-9:09 Uzun kış
-9:38 Kıtlık ve kölelik tehlikesi
-10:05 Yaşlılık ve ölüm
+9:10 Uzun kış
+9:39 Kıtlık ve kölelik tehlikesi
+10:06 Yaşlılık ve ölüm
 10:42 Kapanış
 
 📚 Kaynaklar
@@ -44,4 +44,4 @@ Sen olsan hangisini seçerdin: tarla mı, kürek mi? Yorumlara yaz!
 viking, vikingler, ragnar lodbrok, viking köylüsü, viking hayatı, tarih, tarih animasyon, 845 paris, paris kuşatması, iskandinav tarihi, karl, jarl, thrall, valhalla, thor, odin, freyr, uzun ev, zaman kırığı, olsaydın ne olurdu
 
 ## Video süresi
-11:17
+11:18

@@ -4,867 +4,867 @@ Takvimler sekiz yüz kırk beş yılını
 gösteriyor.
 
 2
-00:00:03,639 --> 00:00:07,111
+00:00:03,639 --> 00:00:07,692
 Kuzeyin buz gibi sularında, yüz yirmi
-savaş gemisi yelken açıyor.
+savaş gemisi denize açılıyor.
 
 3
-00:00:07,551 --> 00:00:12,564
+00:00:08,132 --> 00:00:13,144
 Başlarında, adı yüzyıllar boyunca
 destanlarda anılacak bir adam var: Ragnar
 
 4
-00:00:12,584 --> 00:00:13,101
+00:00:13,164 --> 00:00:13,681
 Lodbrok.
 
 5
-00:00:13,541 --> 00:00:16,298
+00:00:14,121 --> 00:00:16,878
 Hedefleri, Frankların kalbi: Paris.
 
 6
-00:00:16,738 --> 00:00:18,558
+00:00:17,318 --> 00:00:19,138
 Ama sen o gemilerde değilsin.
 
 7
-00:00:18,998 --> 00:00:24,433
+00:00:19,578 --> 00:00:25,013
 Sen, Ragnar'ın adını ocak başında duyan
 binlerce sıradan insandan birisin.
 
 8
-00:00:24,873 --> 00:00:26,856
+00:00:25,453 --> 00:00:27,436
 Elinde kılıç değil, saban var.
 
 9
-00:00:27,296 --> 00:00:31,935
+00:00:27,876 --> 00:00:32,515
 Peki Ragnar zamanında Viking bir köylü
 olsaydın, hayatın nasıl olurdu?
 
 10
-00:00:32,555 --> 00:00:34,817
+00:00:33,135 --> 00:00:35,397
 Hazırsan, zaman kırığından geçiyoruz.
 
 11
-00:00:35,837 --> 00:00:40,309
+00:00:36,417 --> 00:00:40,889
 Önce şunu bilelim: Ragnar gerçekten yaşadı
 mı, tarihçiler bugün bile tartışıyor.
 
 12
-00:00:40,749 --> 00:00:45,185
+00:00:41,329 --> 00:00:45,765
 Frank kayıtları, sekiz yüz kırk beşte
 Paris'i yağmalayan Reginherus adında bir
 
 13
-00:00:45,205 --> 00:00:46,785
+00:00:45,785 --> 00:00:47,365
 Viking reisinden bahsediyor.
 
 14
-00:00:47,225 --> 00:00:52,241
+00:00:47,805 --> 00:00:52,821
 Destanlar ise onu ejderhalarla savaşan,
 sonunda yılanlarla dolu bir çukurda can
 
 15
-00:00:52,261 --> 00:00:54,536
+00:00:52,841 --> 00:00:55,116
 veren bir kahraman olarak anlatıyor.
 
 16
-00:00:54,976 --> 00:00:57,052
+00:00:55,556 --> 00:00:57,632
 Gerçek ile efsane iç içe.
 
 17
-00:00:57,492 --> 00:00:59,692
+00:00:58,072 --> 00:01:00,272
 Ama senin hayatında efsaneye yer yok.
 
 18
-00:01:00,132 --> 00:01:02,052
+00:01:00,712 --> 00:01:02,632
 Senin dünyan, çok daha gerçek.
 
 19
-00:01:03,072 --> 00:01:05,674
+00:01:03,652 --> 00:01:06,254
 Viking toplumu, üç katlı bir piramit
 gibiydi.
 
 20
-00:01:06,114 --> 00:01:10,918
+00:01:06,694 --> 00:01:11,498
 En tepede jarllar vardı: toprak sahibi,
 gemi sahibi, savaşçı beyler.
 
 21
-00:01:11,358 --> 00:01:13,516
+00:01:11,938 --> 00:01:14,096
 En altta köleler, yani thrall'lar.
 
 22
-00:01:13,956 --> 00:01:18,322
+00:01:14,536 --> 00:01:18,902
 Savaşta esir düşmüş, ya da borcunu
 ödeyemediği için özgürlüğünü kaybetmiş
 
 23
-00:01:18,342 --> 00:01:18,863
+00:01:18,922 --> 00:01:19,443
 insanlar.
 
 24
-00:01:19,304 --> 00:01:21,913
+00:01:19,884 --> 00:01:22,493
 Ve ortada, toplumun omurgası: karllar.
 
 25
-00:01:22,353 --> 00:01:26,024
+00:01:22,933 --> 00:01:26,604
 Yani özgür köylüler. İşte sen, tam olarak
 buradasın.
 
 26
-00:01:26,464 --> 00:01:31,361
+00:01:27,044 --> 00:01:31,941
 Silah taşıyabilirsin, mecliste söz hakkın
 var, kimseye ait değilsin.
 
 27
-00:01:31,801 --> 00:01:33,767
+00:01:32,381 --> 00:01:34,347
 Ama bu özgürlüğün bir bedeli var.
 
 28
-00:01:34,207 --> 00:01:36,957
+00:01:34,787 --> 00:01:37,537
 Seni toprağın doyurmazsa, kimse doyurmaz.
 
 29
-00:01:37,977 --> 00:01:39,825
+00:01:38,557 --> 00:01:40,405
 Hikayen doğduğun an başlıyor.
 
 30
-00:01:40,265 --> 00:01:42,812
+00:01:40,845 --> 00:01:43,392
 Ama hayatta kalman, henüz garanti değil.
 
 31
-00:01:43,252 --> 00:01:46,877
+00:01:43,832 --> 00:01:47,457
 Viking geleneğinde yeni doğan bebek,
 babanın önüne konurdu.
 
 32
-00:01:47,317 --> 00:01:50,635
+00:01:47,897 --> 00:01:51,215
 Baba seni kucağına alırsa, aileye kabul
 edilmiş sayılırdın.
 
 33
-00:01:51,075 --> 00:01:54,770
+00:01:51,655 --> 00:01:55,350
 Ardından üzerine su serpilir ve sana bir
 isim verilirdi.
 
 34
-00:01:55,210 --> 00:01:57,569
+00:01:55,790 --> 00:01:58,149
 Çoğu zaman da ölmüş bir atanın adı.
 
 35
-00:01:58,009 --> 00:02:02,339
+00:01:58,589 --> 00:02:02,919
 Çünkü ismin içinde, ataların ruhunun
 yaşadığına inanılırdı.
 
 36
-00:02:02,779 --> 00:02:06,926
+00:02:03,359 --> 00:02:07,506
 Yine de bu dünyada çocukların pek çoğu,
 yetişkinliğe ulaşamazdı.
 
 37
-00:02:07,366 --> 00:02:11,770
+00:02:07,946 --> 00:02:12,350
 Soğuk, açlık ve hastalık, kılıçlardan çok
 daha fazla can alırdı.
 
 38
-00:02:12,789 --> 00:02:14,490
+00:02:13,369 --> 00:02:15,070
 Büyüdüğün yer: uzun ev.
 
 39
-00:02:14,930 --> 00:02:20,018
+00:02:15,510 --> 00:02:20,598
 Yirmi otuz metre uzunluğunda, ahşap ve
 çimden yapılmış, tek bir büyük oda.
 
 40
-00:02:20,458 --> 00:02:23,441
+00:02:21,038 --> 00:02:24,021
 Pencere yok. Ortada gece gündüz yanan bir
 ocak var.
 
 41
-00:02:23,881 --> 00:02:27,053
+00:02:24,461 --> 00:02:27,633
 Dumanı da çatıdaki küçük bir delikten
 çıkmaya çalışıyor.
 
 42
-00:02:27,493 --> 00:02:29,187
+00:02:28,073 --> 00:02:29,767
 Yani gözlerin hep yanıyor.
 
 43
-00:02:29,627 --> 00:02:33,630
+00:02:30,207 --> 00:02:34,210
 Duvar boyunca uzanan sekiler, gündüz
 oturma yerin, gece yatağın.
 
 44
-00:02:34,070 --> 00:02:37,846
+00:02:34,650 --> 00:02:38,426
 Annen, baban, kardeşlerin, belki
 büyükannen ve birkaç köle.
 
 45
-00:02:38,286 --> 00:02:40,618
+00:02:38,866 --> 00:02:41,198
 Hepiniz aynı çatının altındasınız.
 
 46
-00:02:41,058 --> 00:02:43,614
+00:02:41,638 --> 00:02:44,194
 Kışın ise evin bir ucuna inekler giriyor.
 
 47
-00:02:44,054 --> 00:02:47,213
+00:02:44,634 --> 00:02:47,793
 Neden mi? Çünkü bir inek, canlı bir soba
 demek.
 
 48
-00:02:47,653 --> 00:02:49,409
+00:02:48,233 --> 00:02:49,989
 Kokusu mu? Ona da alışırsın.
 
 49
-00:02:50,429 --> 00:02:51,961
+00:02:51,009 --> 00:02:52,541
 Günün, güneşle başlıyor.
 
 50
-00:02:52,401 --> 00:02:56,218
+00:02:52,981 --> 00:02:56,798
 Kalkar kalkmaz hayvanları besler, sağar,
 odun taşırsın.
 
 51
-00:02:56,658 --> 00:03:02,643
+00:02:57,238 --> 00:03:03,223
 Ancak birkaç saat çalıştıktan sonra, günün
 ilk yemeği gelir: dagmal, yani gün yemeği.
 
 52
-00:03:03,083 --> 00:03:05,854
+00:03:03,663 --> 00:03:06,434
 Menüde çoğunlukla arpa ya da yulaf lapası
 var.
 
 53
-00:03:06,294 --> 00:03:11,076
+00:03:06,874 --> 00:03:11,656
 Yanında yassı ekmek, skyr denen yoğurda
 benzer bir süt ürünü, ve şanslıysan
 
 54
-00:03:11,096 --> 00:03:12,165
+00:03:11,676 --> 00:03:12,745
 kurutulmuş balık.
 
 55
-00:03:12,605 --> 00:03:16,318
+00:03:13,185 --> 00:03:16,898
 Et ise her gün değil; bayramlarda ve kesim
 zamanında.
 
 56
-00:03:16,758 --> 00:03:19,207
+00:03:17,338 --> 00:03:19,787
 Akşam yemeği olan nattmal ile gün biter.
 
 57
-00:03:19,647 --> 00:03:21,585
+00:03:20,227 --> 00:03:22,165
 Yani günde sadece iki öğün yemek.
 
 58
-00:03:22,025 --> 00:03:25,329
+00:03:22,605 --> 00:03:25,909
 Susuzluğunu ise çoğu zaman hafif bir
 birayla gideriyorsun.
 
 59
-00:03:26,349 --> 00:03:29,526
+00:03:26,929 --> 00:03:30,106
 Kuzeyde yaz kısa, kış ise uzun ve
 acımasız.
 
 60
-00:03:29,966 --> 00:03:32,193
+00:03:30,546 --> 00:03:32,773
 Bu yüzden yazın her günü değerli.
 
 61
-00:03:32,633 --> 00:03:34,878
+00:03:33,213 --> 00:03:35,458
 Arpa, yulaf, çavdar ekersin.
 
 62
-00:03:35,318 --> 00:03:38,059
+00:03:35,898 --> 00:03:38,639
 İnek, koyun, keçi ve domuz beslersin.
 
 63
-00:03:38,499 --> 00:03:40,339
+00:03:39,079 --> 00:03:40,919
 Ot biçmek, hayati bir iştir.
 
 64
-00:03:40,779 --> 00:03:45,621
+00:03:41,359 --> 00:03:46,201
 Çünkü kış boyunca hayvanlarını doyuracak
 ot yetmezse, onları kesmek zorunda
 
 65
-00:03:45,641 --> 00:03:46,204
+00:03:46,221 --> 00:03:46,784
 kalırsın.
 
 66
-00:03:46,644 --> 00:03:50,247
+00:03:47,224 --> 00:03:50,827
 Et tuzlanır, balık rüzgarda kurutulur,
 peynir yapılır.
 
 67
-00:03:50,687 --> 00:03:55,696
+00:03:51,267 --> 00:03:56,276
 Kısacası, yazın bütün hayatın tek bir
 soruya kilitlenir: Bu kışı çıkarabilecek
 
 68
-00:03:55,716 --> 00:03:56,083
+00:03:56,296 --> 00:03:56,663
 miyiz?
 
 69
-00:03:57,103 --> 00:04:00,842
+00:03:57,683 --> 00:04:01,422
 Evin kadınlarının işi de, en az seninki
 kadar ağır.
 
 70
-00:04:01,282 --> 00:04:05,971
+00:04:01,862 --> 00:04:06,551
 Yün eğirmek, kumaş dokumak, yemek, süt
 ürünleri ve bütün evin düzeni onlardan
 
 71
-00:04:05,991 --> 00:04:06,460
+00:04:06,571 --> 00:04:07,040
 sorulur.
 
 72
-00:04:06,900 --> 00:04:11,182
+00:04:07,480 --> 00:04:11,762
 Bir fikir vermek için: Tek bir Viking
 gemisinin yelkenini dokumak, yıllar süren
 
 73
-00:04:11,202 --> 00:04:12,435
+00:04:11,782 --> 00:04:13,015
 bir emek isteyebilirdi.
 
 74
-00:04:12,875 --> 00:04:17,750
+00:04:13,455 --> 00:04:18,330
 Ama Viking kadınları, döneminin pek çok
 kadınına göre şaşırtıcı haklara sahipti.
 
 75
-00:04:18,190 --> 00:04:20,807
+00:04:18,770 --> 00:04:21,387
 Evin anahtarlarını bellerinde taşırlardı.
 
 76
-00:04:21,247 --> 00:04:24,580
+00:04:21,827 --> 00:04:25,160
 Bu, evin gerçek yöneticisinin kim olduğunu
 gösterirdi.
 
 77
-00:04:25,020 --> 00:04:29,573
+00:04:25,600 --> 00:04:30,153
 Mülk sahibi olabilir, hatta tanıklar
 önünde bildirerek boşanabilirlerdi.
 
 78
-00:04:30,593 --> 00:04:32,920
+00:04:31,173 --> 00:04:33,500
 Şimdi seni şaşırtacak bir şey söyleyelim.
 
 79
-00:04:33,360 --> 00:04:36,512
+00:04:33,940 --> 00:04:37,092
 Filmlerdeki pis, dağınık Viking imajını
 unut.
 
 80
-00:04:36,952 --> 00:04:41,401
+00:04:37,532 --> 00:04:41,981
 Viking mezarlarında en sık bulunan
 eşyalardan biri, taraklardır.
 
 81
-00:04:41,841 --> 00:04:46,624
+00:04:42,421 --> 00:04:47,204
 Cımbızlar, kulak temizleyicileri, hatta
 saçlarını açmak için kullandıkları sert
 
 82
-00:04:46,644 --> 00:04:47,171
+00:04:47,224 --> 00:04:47,751
 sabunlar.
 
 83
-00:04:47,611 --> 00:04:50,616
+00:04:48,191 --> 00:04:51,196
 Haftanın bir günü, özel olarak yıkanma
 günüydü.
 
 84
-00:04:51,056 --> 00:04:55,890
+00:04:51,636 --> 00:04:56,470
 Eski İskandinav dilinde cumartesinin adı
 laugardagr; yani yıkanma günü.
 
 85
-00:04:56,330 --> 00:05:00,375
+00:04:56,910 --> 00:05:00,955
 Hatta bir İngiliz kroniğinde,
 Danimarkalıların saçlarını taradıkları ve
 
 86
-00:05:00,395 --> 00:05:04,727
+00:05:00,975 --> 00:05:05,307
 her cumartesi yıkandıkları için, İngiliz
 kadınlarının gönlünü çaldıklarından
 
 87
-00:05:04,747 --> 00:05:05,586
+00:05:05,327 --> 00:05:06,166
 şikayet edilir.
 
 88
-00:05:06,606 --> 00:05:08,383
+00:05:07,186 --> 00:05:08,963
 Ama hayat her zaman huzurlu değil.
 
 89
-00:05:08,823 --> 00:05:13,920
+00:05:09,403 --> 00:05:14,500
 Komşunun ineği tarlana girdi, biri seni
 dolandırdı, ya da bir kavga çıktı ve biri
 
 90
-00:05:13,940 --> 00:05:14,236
+00:05:14,520 --> 00:05:14,816
 öldü.
 
 91
-00:05:14,676 --> 00:05:16,834
+00:05:15,256 --> 00:05:17,414
 Peki şimdi ne olacak? Cevap: Ting.
 
 92
-00:05:17,274 --> 00:05:20,414
+00:05:17,854 --> 00:05:20,994
 Özgür erkeklerin açık havada toplandığı
 meclis.
 
 93
-00:05:20,854 --> 00:05:26,771
+00:05:21,434 --> 00:05:27,351
 Burada kanun sözcüsü kanunları ezberinden
 okur, davalar dinlenir, kararlar verilir.
 
 94
-00:05:27,211 --> 00:05:31,113
+00:05:27,791 --> 00:05:31,693
 Bir adam öldürüldüyse, katilin ailesi kan
 bedeli ödeyebilirdi.
 
 95
-00:05:31,553 --> 00:05:35,353
+00:05:32,133 --> 00:05:35,933
 Ödemezse kan davası başlar, ve bu nesiller
 boyu sürebilirdi.
 
 96
-00:05:35,793 --> 00:05:39,693
+00:05:36,373 --> 00:05:40,273
 En ağır ceza ise ölüm değil, kanun dışı
 ilan edilmekti.
 
 97
-00:05:40,133 --> 00:05:43,199
+00:05:40,713 --> 00:05:43,779
 Böyle biri olursan, seni öldüren kimse
 ceza almaz.
 
 98
-00:05:43,639 --> 00:05:45,304
+00:05:44,219 --> 00:05:45,884
 Artık kimsenin değilsin.
 
 99
-00:05:46,324 --> 00:05:47,854
+00:05:46,904 --> 00:05:48,434
 Peki kime dua ediyorsun?
 
 100
-00:05:48,474 --> 00:05:50,976
+00:05:49,054 --> 00:05:51,556
 Odin bilgeliğin ve savaşın tanrısı.
 
 101
-00:05:51,416 --> 00:05:54,598
+00:05:51,996 --> 00:05:55,178
 Ama o daha çok jarlların ve şairlerin
 tanrısı.
 
 102
-00:05:55,038 --> 00:05:58,152
+00:05:55,618 --> 00:05:58,732
 Senin gibi bir köylü için asıl önemli
 olanlar başka.
 
 103
-00:05:58,592 --> 00:06:02,238
+00:05:59,172 --> 00:06:02,818
 Gök gürültüsünün efendisi Thor, seni ve
 tarlanı korur.
 
 104
-00:06:02,678 --> 00:06:06,318
+00:06:03,258 --> 00:06:06,898
 Boynunda, onun çekicinin küçük bir
 kopyasını taşırsın.
 
 105
-00:06:06,758 --> 00:06:08,778
+00:06:07,338 --> 00:06:09,358
 Freyr ise bereket tanrısıdır.
 
 106
-00:06:09,218 --> 00:06:12,218
+00:06:09,798 --> 00:06:12,798
 Yağmur, güneş ve bol hasat ondan gelir.
 
 107
-00:06:12,658 --> 00:06:17,314
+00:06:13,238 --> 00:06:17,894
 Yılın belli zamanlarında blót denen kurban
 törenleri yapılır, hayvanlar kesilir,
 
 108
-00:06:17,334 --> 00:06:18,658
+00:06:17,914 --> 00:06:19,238
 etleri ziyafette yenir.
 
 109
-00:06:19,098 --> 00:06:21,993
+00:06:19,678 --> 00:06:22,573
 Ve kötü bir haber: Valhalla senin için
 değil.
 
 110
-00:06:22,433 --> 00:06:24,223
+00:06:23,013 --> 00:06:24,803
 Oraya savaşta ölenler gider.
 
 111
-00:06:24,663 --> 00:06:29,014
+00:06:25,243 --> 00:06:29,594
 Yatağında, yaşlılıktan ölürsen, gideceğin
 yer Hel'in karanlık diyarıdır.
 
 112
-00:06:30,034 --> 00:06:32,791
+00:06:30,614 --> 00:06:33,371
 Bir bahar sabahı, jarlın adamları köye
 gelir.
 
 113
-00:06:33,231 --> 00:06:35,794
+00:06:33,811 --> 00:06:36,374
 Ragnar'ın büyük bir sefer hazırladığı
 söyleniyor.
 
 114
-00:06:36,234 --> 00:06:37,857
+00:06:36,814 --> 00:06:38,437
 Gemiler, kürekçi istiyor.
 
 115
-00:06:38,297 --> 00:06:39,582
+00:06:38,877 --> 00:06:40,162
 Ve önünde iki yol var.
 
 116
-00:06:40,022 --> 00:06:42,222
+00:06:40,602 --> 00:06:42,802
 Birincisi: tarlanda kalırsın.
 
 117
-00:06:42,662 --> 00:06:44,882
+00:06:43,242 --> 00:06:45,462
 Güvenli, ama fakir bir hayat.
 
 118
-00:06:45,322 --> 00:06:47,085
+00:06:45,902 --> 00:06:47,665
 İkincisi: küreğe geçersin.
 
 119
-00:06:47,525 --> 00:06:50,542
+00:06:48,105 --> 00:06:51,122
 Belki gümüşle dönersin, belki de hiç
 dönmezsin.
 
 120
-00:06:50,982 --> 00:06:54,276
+00:06:51,562 --> 00:06:54,856
 Unutma, Vikinglerin çoğu tam zamanlı
 savaşçı değildi.
 
 121
-00:06:54,716 --> 00:06:58,971
+00:06:55,296 --> 00:06:59,551
 Baharda tohumu eker, yazın akına çıkar,
 hasat zamanı eve dönerlerdi.
 
 122
-00:06:59,411 --> 00:07:01,345
+00:06:59,991 --> 00:07:01,925
 Ve sen de, bu yolu seçiyorsun.
 
 123
-00:07:02,365 --> 00:07:04,913
+00:07:02,945 --> 00:07:05,493
 Gemide hayat, sandığın kadar destansı
 değil.
 
 124
-00:07:05,353 --> 00:07:11,002
+00:07:05,933 --> 00:07:11,582
 Üstü açık bir teknede; yağmur, rüzgar ve
 dalga altında, saatlerce kürek çekersin.
 
 125
-00:07:11,442 --> 00:07:15,966
+00:07:12,022 --> 00:07:16,546
 Uyuyacak kabin yok. Deri bir uyku tulumuna
 sarılıp, güvertede uyursun.
 
 126
-00:07:16,406 --> 00:07:19,678
+00:07:16,986 --> 00:07:20,258
 Yemek: kurutulmuş balık ve taş gibi sert
 ekmek.
 
 127
-00:07:20,118 --> 00:07:22,852
+00:07:20,698 --> 00:07:23,432
 Ama bu gemiler, döneminin en iyi
 gemileriydi.
 
 128
-00:07:23,292 --> 00:07:27,515
+00:07:23,872 --> 00:07:28,095
 Sığ gövdeleri sayesinde, denizden
 nehirlere girebiliyorlardı.
 
 129
-00:07:27,955 --> 00:07:30,640
+00:07:28,535 --> 00:07:31,220
 Ve Ragnar'ın filosu da tam olarak bunu
 yaptı.
 
 130
-00:07:31,080 --> 00:07:33,580
+00:07:31,660 --> 00:07:34,160
 Sen Nehri'nden yukarı, Paris'e kadar.
 
 131
-00:07:34,600 --> 00:07:36,171
+00:07:35,180 --> 00:07:36,751
 Mart, sekiz yüz kırk beş.
 
 132
-00:07:36,611 --> 00:07:39,935
+00:07:37,191 --> 00:07:40,515
 Paskalya günlerinde Vikingler Paris'e
 ulaşır.
 
 133
-00:07:40,375 --> 00:07:43,146
+00:07:40,955 --> 00:07:43,726
 Halkın çoğu kaçmıştır, direniş zayıftır.
 
 134
-00:07:43,586 --> 00:07:48,610
+00:07:44,166 --> 00:07:49,190
 Şehir yağmalanır. Ve sonunda Frank kralı
 Kel Charles, Vikinglerin geri çekilmesi
 
 135
-00:07:48,630 --> 00:07:51,826
+00:07:49,210 --> 00:07:52,406
 için bir bedel öder: yedi bin libre gümüş
 ve altın.
 
 136
-00:07:52,266 --> 00:07:54,614
+00:07:52,846 --> 00:07:55,194
 Yaklaşık iki buçuk ton değerli metal.
 
 137
-00:07:55,054 --> 00:07:59,152
+00:07:55,634 --> 00:07:59,732
 Senin payına düşen ise birkaç gümüş parça,
 belki bir bilezik.
 
 138
-00:07:59,592 --> 00:08:05,048
+00:08:00,172 --> 00:08:05,628
 Ama bir köylü için bu, yıllarca tarlada
 çalışarak kazanamayacağı bir servet.
 
 139
-00:08:06,068 --> 00:08:08,825
+00:08:06,648 --> 00:08:09,405
 Ama zafer, her zaman eve dönmek demek
 değil.
 
 140
-00:08:09,265 --> 00:08:14,351
+00:08:09,845 --> 00:08:14,931
 Frank kayıtlarına göre, Paris seferinden
 dönen Viking ordusunda büyük bir salgın
 
 141
-00:08:14,371 --> 00:08:16,649
+00:08:14,951 --> 00:08:17,229
 çıktı ve pek çok savaşçı yolda öldü.
 
 142
-00:08:17,089 --> 00:08:19,565
+00:08:17,669 --> 00:08:20,145
 Yaralananların durumu ise daha da kötü.
 
 143
-00:08:20,005 --> 00:08:22,078
+00:08:20,585 --> 00:08:22,658
 Antibiyotik yok, mikrop bilgisi yok.
 
 144
-00:08:22,518 --> 00:08:27,288
+00:08:23,098 --> 00:08:27,868
 Destanlara göre karından yaralanan bir
 adama, soğanlı bir çorba içirilirdi.
 
 145
-00:08:27,728 --> 00:08:31,464
+00:08:28,308 --> 00:08:32,044
 Eğer yaradan soğan kokusu geliyorsa,
 bağırsak delinmiş demekti.
 
 146
-00:08:31,904 --> 00:08:33,596
+00:08:32,484 --> 00:08:34,176
 Ve bu, ölüm fermanıydı.
 
 147
-00:08:34,036 --> 00:08:38,585
+00:08:34,616 --> 00:08:39,165
 Ama sen şanslıydın. Eve, birkaç gümüş
 parçası ve ömür boyu anlatacağın bir
 
 148
-00:08:38,605 --> 00:08:39,635
+00:08:39,185 --> 00:08:40,215
 hikayeyle döndün.
 
 149
-00:08:40,655 --> 00:08:44,128
+00:08:41,235 --> 00:08:44,708
 Paris'ten getirdiğin gümüş, şimdi işine
 yarayacak.
 
 150
-00:08:44,568 --> 00:08:46,379
+00:08:45,148 --> 00:08:46,959
 Çünkü evlenme vaktin geldi.
 
 151
-00:08:46,819 --> 00:08:50,238
+00:08:47,399 --> 00:08:50,818
 Evet, evliliğe genellikle aileler karar
 verir.
 
 152
-00:08:50,678 --> 00:08:54,071
+00:08:51,258 --> 00:08:54,651
 Çünkü evlilik, iki aile arasında bir
 ittifaktır.
 
 153
-00:08:54,511 --> 00:08:57,725
+00:08:55,091 --> 00:08:58,305
 Damat tarafı başlık öder, gelin de
 çeyiziyle gelir.
 
 154
-00:08:58,165 --> 00:09:01,979
+00:08:58,745 --> 00:09:02,559
 Düğünler birkaç gün sürebilir, ve bol bol
 bal şarabı içilir.
 
 155
-00:09:02,419 --> 00:09:04,400
+00:09:02,999 --> 00:09:04,980
 Artık sen de bir evin reisisin.
 
 156
-00:09:04,840 --> 00:09:08,731
+00:09:05,420 --> 00:09:09,311
 Kendi tarlan, kendi hayvanların, ve
 yakında, kendi çocukların.
 
 157
-00:09:09,751 --> 00:09:13,858
+00:09:10,331 --> 00:09:14,438
 Ve sonra kış gelir. Kuzeyde kış, aylarca
 süren bir karanlık demek.
 
 158
-00:09:14,298 --> 00:09:17,489
+00:09:14,878 --> 00:09:18,069
 Bazı yerlerde güneş, günde sadece birkaç
 saat görünür.
 
 159
-00:09:17,929 --> 00:09:22,654
+00:09:18,509 --> 00:09:23,234
 Uzun evde ateşin başında toplanır,
 aletlerini tamir eder, yün eğirirsin.
 
 160
-00:09:23,094 --> 00:09:25,671
+00:09:23,674 --> 00:09:26,251
 Hnefatafl denen bir masa oyunu oynanır.
 
 161
-00:09:26,111 --> 00:09:28,491
+00:09:26,691 --> 00:09:29,071
 Ve en önemlisi, hikayeler anlatılır.
 
 162
-00:09:28,931 --> 00:09:33,164
+00:09:29,511 --> 00:09:33,744
 Tanrıların, kahramanların, ve tabii ki
 Ragnar'ın hikayeleri.
 
 163
-00:09:33,604 --> 00:09:38,226
+00:09:34,184 --> 00:09:38,806
 Belki o hikayelerden birinde, Paris'e
 giden gemide senin de küreğin vardır.
 
 164
-00:09:39,246 --> 00:09:41,316
+00:09:39,826 --> 00:09:41,896
 Ama her kış masal gibi geçmez.
 
 165
-00:09:41,756 --> 00:09:45,276
+00:09:42,336 --> 00:09:45,856
 Kötü bir hasat, bütün aileni ölümle burun
 buruna getirebilir.
 
 166
-00:09:45,716 --> 00:09:49,222
+00:09:46,296 --> 00:09:49,802
 Erzak biterse, önce tohumluk tahılı
 yersin, sonra hayvanlarını.
 
 167
-00:09:49,662 --> 00:09:51,665
+00:09:50,242 --> 00:09:52,245
 Sonra ağaç kabuğunu una katarsın.
 
 168
-00:09:52,105 --> 00:09:56,206
+00:09:52,685 --> 00:09:56,786
 Ve en kötüsü: Borcunu ödeyemezsen,
 özgürlüğünü kaybedebilirsin.
 
 169
-00:09:56,646 --> 00:09:59,935
+00:09:57,226 --> 00:10:00,515
 Dün özgür bir karl olan sen, yarın bir
 köle olabilirsin.
 
 170
-00:10:00,375 --> 00:10:04,934
+00:10:00,955 --> 00:10:05,514
 Viking dünyasında piramidin basamakları,
 sanıldığı kadar sağlam değildi.
 
 171
-00:10:05,954 --> 00:10:09,827
+00:10:06,534 --> 00:10:10,407
 Eğer çocukluğu, açlığı, salgınları ve
 savaşları atlatabildiysen, kırklı
 
 172
-00:10:09,847 --> 00:10:10,924
+00:10:10,427 --> 00:10:11,504
 yaşlarına ulaşırsın.
 
 173
-00:10:11,364 --> 00:10:13,577
+00:10:11,944 --> 00:10:14,157
 Bu çağda bu, yaşlılık demektir.
 
 174
-00:10:14,017 --> 00:10:18,637
+00:10:14,597 --> 00:10:19,217
 Sırtın bükülmüş, dişlerin aşınmış, ellerin
 nasırdan taş kesmiştir.
 
 175
-00:10:19,077 --> 00:10:22,495
+00:10:19,657 --> 00:10:23,075
 Ve bir gün, ocak başında son nefesini
 verirsin.
 
 176
-00:10:22,935 --> 00:10:27,009
+00:10:23,515 --> 00:10:27,589
 Ailen seni bir jarl gibi gemiyle
 gömmeyecek; o zenginlere özel.
 
 177
-00:10:27,449 --> 00:10:32,118
+00:10:28,029 --> 00:10:32,698
 Ama bıçağınla, tarağınla, belki de
 Paris'ten getirdiğin o gümüş bilezikle
 
 178
-00:10:32,138 --> 00:10:33,338
+00:10:32,718 --> 00:10:33,918
 toprağa verilirsin.
 
 179
-00:10:33,778 --> 00:10:37,001
+00:10:34,358 --> 00:10:37,581
 Mezarının etrafına, gemi şeklinde taşlar
 dizilir.
 
 180
-00:10:37,441 --> 00:10:41,326
+00:10:38,021 --> 00:10:41,906
 Çünkü son yolculuğun da, bir deniz
 yolculuğudur.
 
 181
-00:10:42,346 --> 00:10:44,383
+00:10:42,926 --> 00:10:44,963
 Ragnar'ın adı destanlarda yaşadı.
 
 182
-00:10:44,823 --> 00:10:47,325
+00:10:45,403 --> 00:10:47,905
 Şarkılarda, kitaplarda, dizilerde.
 
 183
-00:10:47,765 --> 00:10:50,743
+00:10:48,345 --> 00:10:51,323
 Senin adını ise hiçbir taşa kazımadılar.
 
 184
-00:10:51,183 --> 00:10:56,365
+00:10:51,763 --> 00:10:56,945
 Ama o gemileri yapan keresteyi kesen,
 yelkenleri dokuyan, Ragnar'ın ordusunu
 
 185
-00:10:56,385 --> 00:10:58,350
+00:10:56,965 --> 00:10:58,930
 besleyen arpayı eken, sendin.
 
 186
-00:10:58,790 --> 00:11:01,117
+00:10:59,370 --> 00:11:01,697
 Tarih, kralları ve kahramanları yazar.
 
 187
-00:11:01,557 --> 00:11:06,403
+00:11:02,137 --> 00:11:06,983
 Ama tarihi omuzlarında taşıyan, her zaman
 senin gibi isimsiz insanlardır.
 
 188
-00:11:06,843 --> 00:11:08,369
+00:11:07,423 --> 00:11:08,949
 Sen olsan hangi yolu seçerdin?
 
 189
-00:11:08,989 --> 00:11:12,118
+00:11:09,569 --> 00:11:12,698
 Tarlanda kalır mıydın, yoksa küreğe mi
 geçerdin?
 
 190
-00:11:12,738 --> 00:11:16,737
+00:11:13,318 --> 00:11:17,317
 Yorumlara yaz. Bir sonraki zaman kırığında
 görüşmek üzere.
