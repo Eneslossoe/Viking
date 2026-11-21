@@ -2,7 +2,7 @@
 
 Her cümle üretildikten sonra faster-whisper ile geri dinlenir; metinle
 yeterince örtüşmüyorsa (yanlış okuma, yutulan kelime, tekrar) yeniden üretilir.
-Çıktılar build/ses/parcalar/ altına yazılır; yarıda kalırsa kaldığı yerden devam eder.
+Çıktılar build/ses/parcalar2/ altına yazılır; yarıda kalırsa kaldığı yerden devam eder.
 
 Kullanım:  python ses/seslendir.py [sahne_id ...]
 """
@@ -39,7 +39,9 @@ EXAGGERATION = 0.45   # sade, abartısız anlatım
 CFG_WEIGHT = 0.50     # normal tempo
 TEMPERATURE = 0.70
 MAX_DENEME = 4
-ESIK = 0.86           # whisper benzerlik eşiği
+ESIK = 0.92           # whisper benzerlik eşiği
+# Kontrol modeli: Türkçede "small" sık yanlış duyuyor (kış→kuş); large-v3-turbo çok daha güvenilir
+ASR_MODEL = os.environ.get("ASR_MODEL", "large-v3-turbo")
 
 
 def cumlelere_bol(metin):
@@ -112,7 +114,7 @@ def main():
     from faster_whisper import WhisperModel
 
     tts = ChatterboxMultilingualTTS.from_pretrained(device="cpu")
-    asr = WhisperModel("small", device="cpu", compute_type="int8", cpu_threads=4)
+    asr = WhisperModel(ASR_MODEL, device="cpu", compute_type="int8", cpu_threads=4)
 
     manifest_yolu = os.path.join(OUT, "manifest.json")
     manifest = json.load(open(manifest_yolu)) if os.path.exists(manifest_yolu) else {}
@@ -141,7 +143,7 @@ def main():
                 tmp = yol + ".tmp.wav"
                 torchaudio.save(tmp, wav, tts.sr)
                 w16 = torchaudio.functional.resample(wav, tts.sr, 16000)[0].numpy().astype("float32")
-                segs, _ = asr.transcribe(w16, language="tr", beam_size=3, word_timestamps=True)
+                segs, _ = asr.transcribe(w16, language="tr", beam_size=5, word_timestamps=True)
                 segs = list(segs)
                 duyulan = " ".join(s.text for s in segs)
                 skor = benzerlik(okunus(cumle), duyulan)

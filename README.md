@@ -18,7 +18,7 @@ Bu videodaki her şey kodla üretildi: çizimler (SVG), animasyon (Python/PIL) v
 - `cizim/render.js` – SVG → PNG (Playwright/Chromium)
 - `video/animasyon.py` – kamera hareketi, nefes, göz kırpma, gemi sallanması, ateş, duman, kar, yağmur, şimşek
 - `ses/seslendir.py` – Chatterbox Multilingual (MIT lisanslı) ile Türkçe seslendirme;
-  her cümle Whisper ile geri dinlenir; yanlış okunursa yeniden üretilir, cümle sonundaki
+  her cümle Whisper (large-v3-turbo) ile geri dinlenir; yanlış okunursa yeniden üretilir, cümle sonundaki
   mırıltılar kelime sınırlarından kesilir
 - `ses/birlestir.py` – sahne sesleri: ses rengine dokunmadan uğultu filtresi, hafif kompresör, seviye eşitleme
 - `video/son_kurgu.py` – anlatım + video, -14 LUFS, SRT
