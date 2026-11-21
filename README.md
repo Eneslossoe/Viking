@@ -1,7 +1,7 @@
 # Zaman Kırığı – Ragnar Zamanında Viking Bir Köylü Olsaydın Hayatın Nasıl Olurdu?
 
 Bu videodaki her şey kodla üretildi: çizimler (SVG), animasyon (Python/PIL) ve seslendirme
-(yerel Türkçe ses modeli). Anlatım sade tutuldu: müzik ve ses efekti yok.
+(yerel Türkçe ses modeli). Anlatımın altında kısık müzik ve ortam sesleri (yağmur, ateş, dalga, rüzgar, gök gürültüsü) var.
 
 ## Çıktılar (`cikti/`)
 | Dosya | Açıklama |

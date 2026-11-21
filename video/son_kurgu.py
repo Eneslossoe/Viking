@@ -1,4 +1,4 @@
-"""Anlatımı videoyla birleştirir (müzik/efekt yok) ve SRT altyazı üretir.
+"""Anlatımı videoyla birleştirir kısık müzik ve ortam sesleriyle ve SRT altyazı üretir.
 
 Kullanım: python video/son_kurgu.py [ad]   (ad: sessiz | onizleme_s01 ...)
 """
@@ -82,10 +82,18 @@ def main():
     a = anlatim(zaman, ad)
     v = os.path.join(ROOT, "build", "video", f"{ad}.mp4")
     hedef = os.path.join(CIKTI, f"{DOSYA_ADI}.mp4" if ad == "sessiz" else f"{ad}.mp4")
-    # Sadece anlatım: müzik ve efekt yok, YouTube seviyesine (-14 LUFS) eşitlenir
-    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", a, "-i", v,
-                    "-filter_complex", "[0:a]loudnorm=I=-14:TP=-1.5:LRA=11,aresample=48000[out]",
-                    "-map", "1:v", "-map", "[out]", "-c:v", "copy", "-c:a", "aac", "-b:a", "192k",
+    muz = os.path.join(SES, f"muzik_{ad}.wav")
+    efk = os.path.join(SES, f"efekt_{ad}.wav")
+    # Anlatım -14 LUFS; müzik ve efektler çok kısık, konuşurken müzik ayrıca kısılır
+    filtre = ("[0:a]loudnorm=I=-14:TP=-2:LRA=11,aresample=48000,asplit=2[ses][sc];"
+              "[1:a]loudnorm=I=-30:LRA=11,aresample=48000[m0];"
+              "[m0][sc]sidechaincompress=threshold=0.03:ratio=4:attack=40:release=600[muz];"
+              "[2:a]loudnorm=I=-27:LRA=15,aresample=48000[efk];"
+              "[ses][muz][efk]amix=inputs=3:normalize=0:duration=first,"
+              "alimiter=limit=0.89:level=disabled[out]")
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", a, "-i", muz, "-i", efk, "-i", v,
+                    "-filter_complex", filtre,
+                    "-map", "3:v", "-map", "[out]", "-c:v", "copy", "-c:a", "aac", "-b:a", "192k",
                     "-movflags", "+faststart", "-shortest", hedef], check=True)
     srt = os.path.splitext(hedef)[0] + ".srt"
     altyazi(zaman, srt)
