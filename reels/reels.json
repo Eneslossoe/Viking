@@ -1,0 +1,27 @@
+{
+ "baslik_ust": "RAGNAR ZAMANINDA",
+ "baslik": ["VİKİNG KÖYLÜSÜ", "OLSAYDIN?"],
+ "satirlar": [
+  {"metin": "Ragnar zamanında Viking bir köylü olsaydın, hayatın nasıl olurdu?",
+   "cekimler": [{"sid": "s01_acilis", "k": 1, "x": 0.56}]},
+  {"metin": "Önce hayatta kalman lazım: Baban seni kucağına alırsa, aileye kabul edilirsin.",
+   "cekimler": [{"sid": "s04_dogum", "k": 1, "x": 0.45}]},
+  {"metin": "Pencereleri olmayan bir uzun evde büyürsün. Kışın inekler de içeride, çünkü bir inek, canlı bir soba demek.",
+   "cekimler": [{"sid": "s05_uzun_ev", "k": 1, "x": 0.55}, {"sid": "s05_uzun_ev", "k": 3, "x": 0.62, "cumle": 1}]},
+  {"metin": "Günde sadece iki öğün yersin: lapa, ekmek ve şanslıysan kuru balık.",
+   "cekimler": [{"sid": "s06_yemek", "k": 2, "x": 0.66}]},
+  {"metin": "Ama şaşıracaksın: Vikingler çok temizdi. Her cumartesi yıkanırlardı.",
+   "cekimler": [{"sid": "s09_temizlik", "k": 1, "x": 0.5}, {"sid": "s09_temizlik", "k": 2, "x": 0.66, "cumle": 1}]},
+  {"metin": "Bir bahar sabahı Ragnar kürekçi arar, ve sen küreğe geçersin.",
+   "cekimler": [{"sid": "s12_cagri", "k": 3, "x": 0.45}]},
+  {"metin": "Sekiz yüz kırk beşte Paris yağmalanır. Frank kralı, yedi bin libre gümüş ve altın öder.",
+   "cekimler": [{"sid": "s14_paris", "k": 0, "x": 0.5}, {"sid": "s14_paris", "k": 2, "x": 0.5, "cumle": 1}]},
+  {"metin": "Ama senin payına düşen, sadece birkaç gümüş parça.",
+   "cekimler": [{"sid": "s14_paris", "k": 3, "x": 0.5}]},
+  {"metin": "Kırklı yaşlarında artık yaşlısın. Mezarının etrafına, gemi şeklinde taşlar dizilir.",
+   "cekimler": [{"sid": "s19_olum", "k": 0, "x": 0.4}, {"sid": "s19_olum", "k": 3, "x": 0.5, "cumle": 1}]},
+  {"metin": "Sen olsan tarlada mı kalırdın, küreğe mi geçerdin? Yorumlara yaz.",
+   "cekimler": [{"sid": "s20_kapanis", "k": 4, "x": 0.5}]}
+ ],
+ "son_kart": {"sid": "s20_kapanis", "k": 5, "x": 0.5, "sure": 2.4, "yazi": "TAM VİDEO KANALDA"}
+}

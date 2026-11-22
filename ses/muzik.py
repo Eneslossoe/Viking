@@ -65,7 +65,7 @@ def lir(f, sure=2.2):
     return x
 
 
-def muzik(toplam, sahneler):
+def muzik(toplam, sahneler, giris=2.5):
     n = int(toplam * SR) + 3 * SR
     out = np.zeros(n, dtype=np.float32)
     pad = np.zeros(n, dtype=np.float32)
@@ -101,7 +101,7 @@ def muzik(toplam, sahneler):
     out = out * 0.5 + filtre(pad, "low", 2000)
     out = reverb(out, islak=0.35)
     out = filtre(out, "high", 150, order=4)
-    out *= egri([(0, 0), (2.5, 1), (toplam - 4, 1), (toplam + 0.5, 0)], n)
+    out *= egri([(0, 0), (giris, 1), (toplam - 4, 1), (toplam + 0.5, 0)], n)
     out /= max(1e-6, np.max(np.abs(out)))
     return out[: int(toplam * SR)] * 0.9
 
